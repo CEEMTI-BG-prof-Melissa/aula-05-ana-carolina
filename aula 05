@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+  <head>
+    <meta charset="UTF-8">
+    <title>Aula 05</title>
+</head>
+  <body>
+    <header id="roxo">
+       
+    </header>
+    <nav id="laranja">
+        <section id="azul">
+            <article id="preto">
+
+            </article>
+            <article id="roxo">
+                <aside id="rosa">
+
+                </aside>
+            </article>
+        </section>
+        <aside id="azul">
+
+        </aside>
+      </nav>
+      <footer class="footer">
+       Ana
+    </footer>
+</body>
+</html>
